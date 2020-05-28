@@ -1,0 +1,3 @@
+/Users/osobiehl/CLionProjects/P2.5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/osobiehl/CLionProjects/P2.5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/osobiehl/CLionProjects/P2.5/cmake-build-debug/CMakeFiles/P2_5.dir

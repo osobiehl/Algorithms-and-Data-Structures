@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/osobiehl/CLionProjects/myMergeSort/main.cpp
+my_algorithms.cpp
+/Users/osobiehl/CLionProjects/myMergeSort/my_algorithms.cpp
+ctime
+-
+my_functions.h
+/Users/osobiehl/CLionProjects/myMergeSort/my_functions.h
+
+/Users/osobiehl/CLionProjects/myMergeSort/my_algorithms.cpp
+iostream
+-
+
+/Users/osobiehl/CLionProjects/myMergeSort/my_functions.h
+ctime
+-
+fstream
+-
+string
+-
+vector
+-
+iostream
+-
+numeric
+-
+

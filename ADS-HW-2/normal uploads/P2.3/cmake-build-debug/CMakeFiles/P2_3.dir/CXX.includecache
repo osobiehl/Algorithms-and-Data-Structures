@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/osobiehl/CLionProjects/P2.3/WindGauge.cpp
+WindGauge.h
+/Users/osobiehl/CLionProjects/P2.3/WindGauge.h
+iostream
+-
+list
+-
+
+/Users/osobiehl/CLionProjects/P2.3/WindGauge.h
+iostream
+-
+list
+-
+

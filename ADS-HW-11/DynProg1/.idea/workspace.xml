@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="DynProg1" targetName="DynProg1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73ee149a-bfbf-4996-9e6d-d02c3e0f57c5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1aqi5Lz5uxzho95tOlwTMrYs1N6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DynProg1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DynProg1" TARGET_NAME="DynProg1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DynProg1" RUN_TARGET_NAME="DynProg1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73ee149a-bfbf-4996-9e6d-d02c3e0f57c5" name="Default Changelist" comment="" />
+      <created>1587469340184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587469340184</updated>
+      <workItem from="1587469341728" duration="13906000" />
+      <workItem from="1587649275966" duration="251000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="795" height="264" key="GridCell.Tab.0.bottom" timestamp="1587501596111">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587498753262" />
+    <state width="795" height="264" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1587501596111" />
+    <state width="795" height="264" key="GridCell.Tab.0.center" timestamp="1587501596111">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587498753261" />
+    <state width="795" height="264" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1587501596111" />
+    <state width="795" height="264" key="GridCell.Tab.0.left" timestamp="1587501596110">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587498753261" />
+    <state width="795" height="264" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1587501596110" />
+    <state width="795" height="264" key="GridCell.Tab.0.right" timestamp="1587501596111">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587498753262" />
+    <state width="795" height="264" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1587501596111" />
+    <state width="795" height="264" key="GridCell.Tab.1.bottom" timestamp="1587501596113">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587493572486" />
+    <state width="795" height="264" key="GridCell.Tab.1.bottom/0.23.1440.828@0.23.1440.828" timestamp="1587501596113" />
+    <state width="795" height="264" key="GridCell.Tab.1.center" timestamp="1587501596112">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1587493572486" />
+    <state width="795" height="264" key="GridCell.Tab.1.center/0.23.1440.828@0.23.1440.828" timestamp="1587501596112" />
+    <state width="795" height="264" key="GridCell.Tab.1.left" timestamp="1587501596112">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1587493572485" />
+    <state width="795" height="264" key="GridCell.Tab.1.left/0.23.1440.828@0.23.1440.828" timestamp="1587501596112" />
+    <state width="795" height="264" key="GridCell.Tab.1.right" timestamp="1587501596112">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1587493572486" />
+    <state width="795" height="264" key="GridCell.Tab.1.right/0.23.1440.828@0.23.1440.828" timestamp="1587501596112" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1587484873322">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1587484873322" />
+  </component>
+</project>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="PuzzleBoard" targetName="PuzzleBoard" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59580676-9545-4a01-ba4b-8fb4962f60ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1bBRlgvcMUHPUtZ4jWcLTWP8gJ7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PuzzleBoard" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PuzzleBoard" TARGET_NAME="PuzzleBoard" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PuzzleBoard" RUN_TARGET_NAME="PuzzleBoard">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59580676-9545-4a01-ba4b-8fb4962f60ce" name="Default Changelist" comment="" />
+      <created>1588103652984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588103652984</updated>
+      <workItem from="1588103654366" duration="10006000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="756" y="189" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588112992629">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="756" y="189" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.832@0.23.1440.832" timestamp="1588112992629" />
+    <state width="369" height="442" key="Diff.GoToChangePopup" timestamp="1588112962494">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="369" height="442" key="Diff.GoToChangePopup/0.23.1440.832@0.23.1440.832" timestamp="1588112962494" />
+    <state x="796" y="324" width="644" height="625" key="DiffContextDialog" timestamp="1588113093139">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="796" y="324" width="644" height="625" key="DiffContextDialog/0.23.1440.832@0.23.1440.832" timestamp="1588113093139" />
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom" timestamp="1588114977164">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588114977164" />
+    <state width="802" height="213" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1588113111824" />
+    <state width="1398" height="213" key="GridCell.Tab.0.center" timestamp="1588114977163">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588114977163" />
+    <state width="802" height="213" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1588113111823" />
+    <state width="1398" height="213" key="GridCell.Tab.0.left" timestamp="1588114977162">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588114977161" />
+    <state width="802" height="213" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1588113111823" />
+    <state width="1398" height="213" key="GridCell.Tab.0.right" timestamp="1588114977163">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588114977163" />
+    <state width="802" height="213" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1588113111824" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1588113665500">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588113665500" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1588113665500">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1588113665500" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1588113665499">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1588113665499" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1588113665500">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1588113665500" />
+    <state x="696" y="123" width="644" height="625" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1588113093139">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="696" y="123" width="644" height="625" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1440.832@0.23.1440.832" timestamp="1588113093139" />
+    <state x="176" y="23" width="993" height="564" key="dock-window-1" timestamp="1588114139541">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="176" y="23" width="993" height="564" key="dock-window-1/0.23.1440.832@0.23.1440.832" timestamp="1588114139541" />
+    <state x="747" y="179" width="670" height="676" key="search.everywhere.popup" timestamp="1588105581025">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="747" y="179" width="670" height="676" key="search.everywhere.popup/0.23.1440.832@0.23.1440.832" timestamp="1588105581025" />
+  </component>
+</project>

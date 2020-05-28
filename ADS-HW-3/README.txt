@@ -1,0 +1,1 @@
+type make to compile both the trace example and the source code, the trial runs can be found in the "raw trials" folder which contains all of the source data for the graphs. BE. AWARE: A NEW TEXT FILE IS CREATED FOR EACH REPETITION OF TESTSELECTIONSORT: YOU HAVE BEEN WARNED.
